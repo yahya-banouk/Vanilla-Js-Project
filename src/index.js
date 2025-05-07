@@ -1,1 +1,7 @@
-console.log("Hello, World!!");
+const person = {
+  nom : "John",
+}
+
+person.nom = "Doe"
+
+console.log(person.nom)
