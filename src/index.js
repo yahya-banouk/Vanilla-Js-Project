@@ -1,7 +1,8 @@
-const person = {
-  nom : "John",
+let test = 4;
+if test == 3 {
+  test = 5;
+  console.log(test);
 }
-
-person.nom = "Doe"
-
-console.log(person.nom)
+else {
+  console.log(test);
+}
