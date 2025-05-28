@@ -1,1 +1,1 @@
-# Vanilla-Js-Project
+# Vanilla-Js-Project for learning reasons
